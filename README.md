@@ -1,4 +1,6 @@
-## reactphp chat (Ratchet)
+## reactphp websocket server app
+
+WS Application to replace nodejs ws-server
 
 1. install dependencies
 
