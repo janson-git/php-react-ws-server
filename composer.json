@@ -1,0 +1,14 @@
+{
+  "name": "janson-git/php-react-ws-server",
+  "description": "WebSockets server on react php",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app"
+    }
+  },
+  "require": {
+    "ext-json": "*",
+    "nekland/woketo": "dev-master"
+  }
+}
